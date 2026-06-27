@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer AMG, doch die Lichter sind so grell
+> Ich fahr' durch die City, Baby, alles geht zu schnell
+> Dein Blick in meinem Kopf, ich spür', wie das Adrenalin pulsiert
+> Scheiß auf die Distanz, heut Nacht komm' ich zurück zu dir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
