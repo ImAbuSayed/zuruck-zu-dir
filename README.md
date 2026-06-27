@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zuruck-zu-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Zurück zu dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zuruck-zu-dir/) |
+| **Get License** | [Official Music Licensing for Zurück zu dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zuruck-zu-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2165aa683df9ab04e573f6d83849b7c46577d7ae55ffc242792e14a9c6df9a2d` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

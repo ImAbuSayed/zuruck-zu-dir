@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Zurück zu dir
+
+This log tracks the cryptographic history and versioning for the song **Zurück zu dir** (zuruck-zu-dir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T23:26:27.983002 | `v1` | `2165aa683df9ab04e573f6d83849b7c46577d7ae55ffc242792e14a9c6df9a2d` | `d02d5af6fe7ce67a591cdaa355a1445180a39162519ef2e569d2cb48c180759c` | `2026-06-27_zuruck-zu-dir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
